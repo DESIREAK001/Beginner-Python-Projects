@@ -1,1 +1,1 @@
-this is a guess game
+this repository contains python projects i have created
